@@ -1,0 +1,4 @@
+# Keep line endings right for each platform, whatever Git's settings on this computer.
+mvnw text eol=lf
+*.sh text eol=lf
+*.cmd text eol=crlf

@@ -1,0 +1,21 @@
+# Local secrets
+.env
+
+# Build output
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+.springBeans
+.sts4-cache/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db

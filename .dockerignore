@@ -1,0 +1,5 @@
+# Only send what the image build needs. Everything else, including .env with
+# your passwords, build output and IDE files, stays out of the image.
+*
+!pom.xml
+!src/
